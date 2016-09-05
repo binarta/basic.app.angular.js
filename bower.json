@@ -17,8 +17,8 @@
     "binarta.clerk.menu.angular": "2.*.*",
     "binarta.viewport.angular": "0.*.*",
     "binarta.config.rest.angular": "0.*.*",
-    "binarta.i18n.angular": "2.*.*",
-    "binarta.i18n.rest.angular": "0.*.*",
+    "binarta.i18n.angular": "git@github.com:binarta/i18n.angular.js#nws",
+    "binarta.i18n.rest.angular": "git@github.com:binarta/i18n.rest.angular.js#nws",
     "binarta.sockjs.fallback.over.rest.angular": "0.*.*",
     "binarta.i18n.extension.tinymce.angular": "0.*.*",
     "binarta.application.angular": "1.*.*"
