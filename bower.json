@@ -1,27 +1,8 @@
 {
   "name": "binarta.basic.app.angular",
-  "main": [
-    "./src/basic.app.js",
-    "./src/basic-app-tpls-bootstrap3.js",
-    "./metadata-system.json",
-    "./sources.json"
-  ],
+  "main": "./src/basic.app.js",
   "dependencies": {
-    "binartajs-angular1": "1.*.*",
-    "binarta.angularx": "v0.*.*",
-    "binarta.bootstrap.ex.angular": "1.*.*",
-    "binarta.schedulers.angular": "0.*.*",
-    "binarta.cookies.angular": "1.*.*",
-    "binarta.journal.angular": "0.*.*",
-    "binarta.checkpoint.angular": "1.*.*",
-    "binarta.clerk.menu.angular": "2.*.*",
-    "binarta.viewport.angular": "0.*.*",
-    "binarta.config.rest.angular": "0.*.*",
-    "binarta.i18n.angular": "2.*.*",
-    "binarta.i18n.rest.angular": "1.*.*",
-    "binarta.i18n.extension.tinymce.angular": "0.*.*",
-    "binarta.application.angular": "1.*.*",
-    "binarta.browser.info.angular": "0.*.*"
+    "binarta.start.app.angular": "0.*.*"
   },
   "ignore": [
     "**/.*",
@@ -29,8 +10,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "resolutions": {
-    "angular": "1.5.*"
-  }
+  ]
 }
