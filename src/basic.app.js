@@ -5,7 +5,6 @@ angular.module('basic.app', [
     'angularx',
     'bootstrap.ex',
     'schedulers',
-    'cookies',
     'config.gateways',
     'viewport',
     'clerk.menu',

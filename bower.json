@@ -11,7 +11,6 @@
     "binarta.angularx": "v0.*.*",
     "binarta.bootstrap.ex.angular": "1.*.*",
     "binarta.schedulers.angular": "0.*.*",
-    "binarta.cookies.angular": "1.*.*",
     "binarta.journal.angular": "0.*.*",
     "binarta.checkpoint.angular": "1.*.*",
     "binarta.clerk.menu.angular": "2.*.*",
