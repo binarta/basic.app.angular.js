@@ -19,6 +19,7 @@ angular.module('basic.app', [
     'binarta-applicationjs-angular1',
     'binarta-checkpointjs-tpls-angular1',
     'binarta-cache-angular1',
+    'binarta-edit-modejs-angular1',
     'application',
     'browser.info'
 ]).config(['$routeProvider', '$locationProvider', '$provide', '$compileProvider', function ($routeProvider, $locationProvider, $provide, $compileProvider) {
